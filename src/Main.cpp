@@ -14,7 +14,7 @@ for(int val : b.getCell(0, 1)->getNeededCell())
 {
   cout << val << endl;
 }
-
+ // Added this comment
 
   return 0;
 }
