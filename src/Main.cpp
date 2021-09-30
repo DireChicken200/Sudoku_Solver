@@ -14,5 +14,6 @@ for(int val : b.getCell(0, 1)->getNeededCell())
 {
   cout << val << endl;
 }
+
   return 0;
 }
